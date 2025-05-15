@@ -2,7 +2,7 @@ use serde::{Deserialize,Serialize};
 use csv::Reader;
 use std::fs;
 use anyhow::Result;
-use crate::opts::OutputFormat;
+use crate::cli::OutputFormat;
 
 #[derive(Debug,Deserialize,Serialize)]
 #[serde(rename_all = "PascalCase")]

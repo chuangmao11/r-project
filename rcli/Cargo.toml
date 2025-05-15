@@ -9,6 +9,7 @@ authors =["chuang mao"]
 
 [dependencies]
 anyhow = "1.0.97"
+base64 = "0.22.1"
 clap = { version = "4.5.34", features = ["derive"] }
 
 
