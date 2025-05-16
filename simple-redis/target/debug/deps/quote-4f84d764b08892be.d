@@ -1,0 +1,13 @@
+/Users/alex/Desktop/r-project/simple-redis/target/debug/deps/libquote-4f84d764b08892be.rmeta: /Users/alex/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/quote-1.0.40/src/lib.rs /Users/alex/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/quote-1.0.40/src/ext.rs /Users/alex/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/quote-1.0.40/src/format.rs /Users/alex/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/quote-1.0.40/src/ident_fragment.rs /Users/alex/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/quote-1.0.40/src/to_tokens.rs /Users/alex/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/quote-1.0.40/src/runtime.rs /Users/alex/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/quote-1.0.40/src/spanned.rs
+
+/Users/alex/Desktop/r-project/simple-redis/target/debug/deps/libquote-4f84d764b08892be.rlib: /Users/alex/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/quote-1.0.40/src/lib.rs /Users/alex/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/quote-1.0.40/src/ext.rs /Users/alex/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/quote-1.0.40/src/format.rs /Users/alex/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/quote-1.0.40/src/ident_fragment.rs /Users/alex/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/quote-1.0.40/src/to_tokens.rs /Users/alex/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/quote-1.0.40/src/runtime.rs /Users/alex/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/quote-1.0.40/src/spanned.rs
+
+/Users/alex/Desktop/r-project/simple-redis/target/debug/deps/quote-4f84d764b08892be.d: /Users/alex/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/quote-1.0.40/src/lib.rs /Users/alex/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/quote-1.0.40/src/ext.rs /Users/alex/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/quote-1.0.40/src/format.rs /Users/alex/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/quote-1.0.40/src/ident_fragment.rs /Users/alex/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/quote-1.0.40/src/to_tokens.rs /Users/alex/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/quote-1.0.40/src/runtime.rs /Users/alex/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/quote-1.0.40/src/spanned.rs
+
+/Users/alex/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/quote-1.0.40/src/lib.rs:
+/Users/alex/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/quote-1.0.40/src/ext.rs:
+/Users/alex/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/quote-1.0.40/src/format.rs:
+/Users/alex/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/quote-1.0.40/src/ident_fragment.rs:
+/Users/alex/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/quote-1.0.40/src/to_tokens.rs:
+/Users/alex/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/quote-1.0.40/src/runtime.rs:
+/Users/alex/.cargo/registry/src/rsproxy.cn-e3de039b2554c837/quote-1.0.40/src/spanned.rs:
